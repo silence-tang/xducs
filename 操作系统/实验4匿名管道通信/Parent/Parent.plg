@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Parent - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\HP\AppData\Local\Temp\RSP41C1.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Parent.pdb" /debug /machine:I386 /out:"Debug/Parent.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\Parent.obj"
+".\Debug\ParentDoc.obj"
+".\Debug\ParentView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Parent.res"
+]
+Creating command line "link.exe @C:\Users\HP\AppData\Local\Temp\RSP41C1.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+Parent.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
