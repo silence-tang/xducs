@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: NamedChild - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\HP\AppData\Local\Temp\RSPF097.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/NamedChild.pdb" /debug /machine:I386 /out:"Debug/NamedChild.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\NamedChild.obj"
+".\Debug\NamedChildDoc.obj"
+".\Debug\NamedChildView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\NamedChild.res"
+]
+Creating command line "link.exe @C:\Users\HP\AppData\Local\Temp\RSPF097.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+NamedChild.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
